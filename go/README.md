@@ -5,7 +5,7 @@ Este projeto é uma aplicação Go que imprime a mensagem "Full Cycle Rocks!!" q
 ## Imagem Docker
 Você pode encontrar a imagem Docker do projeto no Docker Hub:
 
-[![Docker Image](https://img.shields.io/badge/Docker%20Hub-my_project-blue)](https://hub.docker.com/repository/docker/pahjunior/fullcycle/general)
+[![Docker Image](https://img.shields.io/badge/Docker%20Hub-pahjunior/fullcycle-blue)](https://hub.docker.com/repository/docker/pahjunior/fullcycle/general)
 
 ### Para usar a imagem Docker:
 
