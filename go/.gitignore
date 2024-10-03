@@ -1,0 +1,41 @@
+# Binaries
+*.exe
+*.exe~
+*.out
+*.a
+*.o
+*.so
+
+# Directórios de build
+/bin/
+/obj/
+
+# Dependências do Go
+/vendor/
+
+# Arquivos de configuração do editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.log
+
+# Arquivos de cache
+*.cache
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Teste de cobertura
+*.out
+*.test
+
+# Arquivos de configuração
+.env
+.env.local
